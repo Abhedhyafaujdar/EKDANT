@@ -1,0 +1,8 @@
+{
+  "name": "EKDANTA — Digital Crime Scene Investigator",
+  "description": "Digital crime scene investigation and forensic intelligence platform.",
+  "prompt": "EKDANTA digital crime scene investigator",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

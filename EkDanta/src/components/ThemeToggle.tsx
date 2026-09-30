@@ -1,0 +1,2 @@
+import {Moon,Sun} from "lucide-react";
+export function ThemeToggle({theme,onToggle}:{theme:"dark"|"light";onToggle:()=>void}){return <button className="theme-toggle" onClick={onToggle} aria-label="Toggle theme"><span className={theme==="dark"?"active":""}><Moon size={14}/></span><span className={theme==="light"?"active":""}><Sun size={14}/></span></button>}
